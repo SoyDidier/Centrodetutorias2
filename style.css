@@ -1,0 +1,31 @@
+.piezas{
+    display: flex;
+    justify-content:space-between;
+}
+.piezas2{
+    display: flex;
+    justify-content: space-between;
+}
+.peon{
+    background-color: aqua;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.caballo{
+    background-color: chartreuse;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.alfil{
+    background-color: darkred;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.torre{
+    background-color: darkviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.rey{
+    background-color: darkgray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.dama{
+    background-color: darkorange;
+}
